@@ -78,5 +78,5 @@ If you use this analysis, please cite:
 Olson RD et al. (2023). BV-BRC. *Nucleic Acids Research*, 51(D1), D678–D689.
 
 ## Author
-**Afnan Asharaf** | MSc Microbiology | University of Kerala  
+**Afnan Asharaf** | MSc Microbiology | University of Calicut  
 [LinkedIn](www.linkedin.com/in/afnan-ashraf-34651a341) | [GenBank: PZ163977](https://www.ncbi.nlm.nih.gov/nuccore/PZ163977)
