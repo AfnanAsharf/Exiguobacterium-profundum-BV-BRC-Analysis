@@ -49,9 +49,9 @@ Resource Center)**, the world's largest integrated bacterial genomics platform.
 ---
 ## Downloads
 
-- [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report.pdf)
+- [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report_.pdf)
 - [Full Report (Word)](Afnan_Exiguobacterium_profundum_Final_Report.word.docx)
-- [16S rRNA Sequence (FASTA)](Exiguobacterium merged.fasta)
+- [16S rRNA Sequence (FASTA)](Afnan_Exiguo_16s_ merged.txt)
 
 ## Figures
 
