@@ -47,6 +47,11 @@ Resource Center)**, the world's largest integrated bacterial genomics platform.
 - Top in silico docking hit: 2-phenyl-nicotinic acid ethyl ester (COX-2, −5.5 kcal/mol)
 
 ---
+## Downloads
+
+- [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report.pdf)
+- [Full Report (Word)](Afnan_Exiguobacterium_profundum_Final_Report.word.docx)
+- [16S rRNA Sequence (FASTA)](Exiguobacterium merged.fasta)
 
 ## Figures
 
