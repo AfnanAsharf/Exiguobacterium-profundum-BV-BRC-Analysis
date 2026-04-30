@@ -36,6 +36,8 @@ Resource Center)**, the world's largest integrated bacterial genomics platform.
 | 8 | AMR profiling | BV-BRC + CARD integration |
 | 9 | Figure generation | Python (seaborn/matplotlib) |
 
+![Analytical Workflow](workflow.png)
+
 ---
 
 ## Key Results
@@ -46,29 +48,24 @@ Resource Center)**, the world's largest integrated bacterial genomics platform.
 - No clinical AMR genes detected — confirms biotechnological safety
 - Top in silico docking hit: 2-phenyl-nicotinic acid ethyl ester (COX-2, −5.5 kcal/mol)
 
+  ![Figure 1 - Phylogenetic Tree](fig1.png)
+  ![Figure 5 - Pathway Completeness](fig5.png)
+
 ---
-## Downloads
+## Repository Structure
+Exiguobacterium-profundum-BV-BRC-Analysis/
+├── README.md
+├── Afnan_Exiguobacterium_profundum_Final_Report.pdf
+├── Afnan_Exiguobacterium_profundum_Final_Report_word.docx
+├── Afnan_Exiguobacterium_16s_merged.txt
+├── fig1.png — Maximum-Likelihood Phylogenetic Tree
+├── fig2.png — Pan-Genome Presence/Absence Heatmap
+├── fig3.png — Specialty Gene Profile
+├── fig4.png — AMR Gene Profile
+├── fig5.png — KEGG Pathway Completeness Heatmap
+└── fig6.png — Pan-Genome Accumulation Curves
 
-- [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report_.pdf)
-- [Full Report (Word — click Download to save)](Afnan_Exiguobacterium_profundum_Final_Report_word.docx)
-- [16S rRNA Sequence (FASTA)](Afnan_Exiguobacterium_16s_merged.txt)
-  - **GenBank Accession:** [PZ163977](https://www.ncbi.nlm.nih.gov/nuccore/PZ163977)
-
-## Figures
-
-![Figure 1 - Phylogenetic Tree](fig1.png)
-
-![Figure 2 - Pan-genome Heatmap](fig2.png)
-
-![Figure 3 - Specialty Genes](fig3.png)
-
-![Figure 4 - AMR Profile](fig4.png)
-
-![Figure 5 - Pathway Completeness](fig5.png)
-
-![Figure 6 - Pan-genome Accumulation](fig6.png)
 ---
-
 ## Platform
 All analyses performed on **BV-BRC (bv-brc.org)** — free, browser-based.  
 No institutional HPC or command-line setup required.
@@ -80,3 +77,21 @@ Olson RD et al. (2023). BV-BRC. *Nucleic Acids Research*, 51(D1), D678–D689.
 ## Author
 **Afnan Asharaf** | MSc Microbiology | University of Calicut  
 [LinkedIn](www.linkedin.com/in/afnan-ashraf-34651a341) | [GenBank: PZ163977](https://www.ncbi.nlm.nih.gov/nuccore/PZ163977)
+
+## Downloads
+
+- [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report_.pdf)
+- [Full Report (Word — click Download to save)](Afnan_Exiguobacterium_profundum_Final_Report_word.docx)
+- [16S rRNA Sequence (FASTA)](Afnan_Exiguobacterium_16s_merged.txt)
+  - **GenBank Accession:** [PZ163977](https://www.ncbi.nlm.nih.gov/nuccore/PZ163977)
+
+## Figures
+
+
+![Figure 2 - Pan-genome Heatmap](fig2.png)
+
+![Figure 3 - Specialty Genes](fig3.png)
+
+![Figure 4 - AMR Profile](fig4.png)
+
+![Figure 6 - Pan-genome Accumulation](fig6.png)
