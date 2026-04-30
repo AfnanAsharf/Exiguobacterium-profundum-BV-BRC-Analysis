@@ -50,7 +50,12 @@ Resource Center)**, the world's largest integrated bacterial genomics platform.
 
 ## Repository Structure
 
-
+![Figure 1 - Phylogenetic Tree](figures/Fig1_phylogenetic_tree.png)
+![Figure 2 - Pan-genome Heatmap](figures/Fig2_pangenome_heatmap.png)
+![Figure 3 - Specialty Genes](figures/Fig3_specialty_genes.png)
+![Figure 4 - AMR Profile](figures/Fig4_amr_profile.png)
+![Figure 5 - Pathway Completeness](figures/Fig5_pathway_completeness.png)
+![Figure 6 - Pan-genome Accumulation](figures/Fig6_pangenome_accumulation.png)
 ---
 
 ## Platform
