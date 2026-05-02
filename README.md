@@ -81,7 +81,6 @@ Olson RD et al. (2023). BV-BRC. *Nucleic Acids Research*, 51(D1), D678–D689.
 ## Downloads
 
 - [Full Report (PDF)](Afnan_Exiguobacterium_profundum_Final_Report_.pdf)
-- [Full Report (Word — click Download to save)](Afnan_Exiguobacterium_profundum_Final_Report_word.docx)
 - [16S rRNA Sequence (FASTA)](Afnan_Exiguobacterium_16s_merged.txt)
   - **GenBank Accession:** [PZ163977](https://www.ncbi.nlm.nih.gov/nuccore/PZ163977)
 
@@ -97,4 +96,8 @@ Olson RD et al. (2023). BV-BRC. *Nucleic Acids Research*, 51(D1), D678–D689.
 ![Figure 6 - Pan-genome Accumulation](fig6.png)
 
 
-Note: This project is a preliminary bioinformatics analysis and part of ongoing work intended for future publication.
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This work is part of ongoing research intended for future publication.
