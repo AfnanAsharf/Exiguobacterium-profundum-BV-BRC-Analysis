@@ -95,3 +95,6 @@ Olson RD et al. (2023). BV-BRC. *Nucleic Acids Research*, 51(D1), D678–D689.
 ![Figure 4 - AMR Profile](fig4.png)
 
 ![Figure 6 - Pan-genome Accumulation](fig6.png)
+
+
+Note: This project is a preliminary bioinformatics analysis and part of ongoing work intended for future publication.
